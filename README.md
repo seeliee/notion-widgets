@@ -8,3 +8,7 @@ Steps:
 2. Customize the widget and copy the HTML code. Paste it into the new file and name property (with `.html` extension).
 3. Publish and commit changes. The widget link will be `repositoryURL/filename.html`.
 4. Paste link in Notion.
+---
+Widgets
+---
+[Jazzy's Galaxy](jazzys-galaxy)
