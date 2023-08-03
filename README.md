@@ -6,5 +6,5 @@ I don't claim any of this code to be original or my own. I'm just trying to make
 Steps:
 1. Create a new file.
 2. Customize the widget and copy the HTML code. Paste it into the new file and name property (with `.html` extension).
-3. Publish and commit changes.
+3. Publish and commit changes. The widget link will be `repositoryURL/filename.html`.
 4. Paste link in Notion.
