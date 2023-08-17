@@ -7,6 +7,5 @@ I'm trying to implement HTML and other code embeds into Notion and this is my la
 3. Publish and commit changes. The widget link will be `repositoryURL/filename.html`.
 4. Paste link in Notion.
 ### Widgets
-[Jazzy's Galaxy](jazzys-galaxy)
-
-[Enunciated's Notion](enunciated-notion)
+- [Jazzy's Galaxy](jazzys-galaxy)
+- [Enunciated's Notion](enunciated-notion)
