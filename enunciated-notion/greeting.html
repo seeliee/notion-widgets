@@ -1,0 +1,66 @@
+<!-- original : https://codepen.io/SeanNorton/pen/LWBXQL -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>greeting2</title>
+    <style>
+        /*CSS RESETS*/
+body{
+    background-color: #fff;
+    line-height: 1.6;
+}
+
+h1 {
+    margin-top: 0;
+}
+/*CSS START*/
+
+.full-table {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.table-cell {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.card {
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px;
+    background-image: url("https://images.pexels.com/photos/7234227/pexels-photo-7234227.jpeg?cs=srgb&dl=pexels-pavel-danilyuk-7234227.jpg&fm=jpg");
+    background-position:50% 50%;background-repeat:no-repeat;background-size:cover;overflow:hidden;
+    width: 85vw;
+    color: #fff;
+    display: inline-block;
+    box-shadow: 2px 2px 1px 0px #330835;
+}
+
+
+.greet{
+    
+    display:inline;
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 2rem;
+     padding-right: 30px;
+}
+
+    </style>
+</head>
+<body>
+
+<div class="full-table">
+  <div class="table-cell">
+    <div class="card">
+        <div class="greet" id="greet">Welcome Home</div>
+    </div>
+    
+  </div>
+</div>
+</body>
+</html>
