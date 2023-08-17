@@ -8,4 +8,5 @@ I'm trying to implement HTML and other code embeds into Notion and this is my la
 4. Paste link in Notion.
 ### Widgets
 [Jazzy's Galaxy](jazzys-galaxy)
+
 [Enunciated's Notion](enunciated-notion)
